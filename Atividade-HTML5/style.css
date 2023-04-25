@@ -1,0 +1,160 @@
+html {
+    width: 100%;
+    height: 100%;
+    background-color: grey;
+}
+* {
+  box-sizing: border-box;
+}
+ul {
+    position: relative;
+    right: 20px;
+    list-style-type: none;
+}
+ol {
+    position: relative;
+    right: 15px;
+    list-style-type: none;    
+}
+.tnet {
+    width: 180px;
+    height: 80px;
+}
+#tnet {
+    width: 100px;
+    height: 50px;
+}
+#netflix {
+    width: 320px;
+    height: 200px;
+}
+.thbomax {
+    width: 200px;
+    height: 100px;  
+}
+#thbomax {
+    width: 100px;
+    height: 50px;
+    position: relative;
+    bottom: 10px;
+}
+#hbomax {
+    width: 320px;
+    height: 200px;   
+}
+.tcrunchy {
+    width: 200px;
+    height: 100px;
+}
+#tcrunchy {
+    width: 120px;
+    height: 70px;
+    position: relative;
+    bottom: 25px;
+}
+#crunchy {
+    width: 320px;
+    height: 200px;
+    position: relative;
+    bottom: 10px;
+}
+.tpv {
+    width: 180px;
+    height: 50px;    
+}
+#tpv {
+    width: 100px;
+    height: 30px;
+    position: relative;
+    bottom: 30px;
+
+}
+#primvid {
+    width: 320px;
+    height: 200px; 
+    position: relative;
+    top: 10px;
+}
+#align1 {
+    width: 50%;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    color: #ff4013;
+    background-color: #232323;
+    border: 2px solid #000000;
+    padding: 20px;
+}
+#align2 {
+    width: 50%;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    color: #be38f3;
+    background-color: #450e59;
+    border: 2px solid #000000;
+    padding: 20px;
+}
+#align3 {
+    width: 50%;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    color: #ffffff;
+    background-color: #ff6a00;
+    border: 2px solid #000000;
+    padding: 20px;
+}
+#align4 {
+    width: 50%;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    color: #00a3d7;
+    background-color: #000000;
+    border: 2px solid #000000;
+    padding: 20px;
+}
+#colunm1 {
+    float: left;
+    width: 50%;
+}
+#colunm2 {
+    width: 100%;
+ 
+}
+#colunm3 {
+    float: left;
+    width: 48%;
+    margin-right: 2%;
+}
+#colunm4 {
+    width: 95%;
+    margin-left: 6%;
+ 
+}#colunm5 {
+    float: left;
+    width: 50%;
+}
+#colunm6 {
+    width: 100%;
+ 
+}#colunm7 {
+    float: left;
+    width: 50%;
+}
+#colunm8 {
+    width: 100%;
+ 
+}#colunm9 {
+    float: left;
+    width: 50%;
+}
+#colunm10 {
+    width: 100%;
+ 
+}
